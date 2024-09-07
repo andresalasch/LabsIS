@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backendlab", "Backendlab\Backendlab.csproj", "{5A1A8858-6DD6-4AEF-8B60-31EDCA713CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A1A8858-6DD6-4AEF-8B60-31EDCA713CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1A8858-6DD6-4AEF-8B60-31EDCA713CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1A8858-6DD6-4AEF-8B60-31EDCA713CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1A8858-6DD6-4AEF-8B60-31EDCA713CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA852C6A-C3C0-411C-99D3-E9D7CC32B1BA}
+	EndGlobalSection
+EndGlobal
